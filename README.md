@@ -13,3 +13,11 @@ Find & read "C programming language" by Kernighan & Ritchie
 1. Write program calculating & printing factorials up to 10!
 1. Write program calculating & printing 50 odd numbers
 1. Write program calculating & printing 50 even numbers
+
+## Lesson 04
+1. Write program which takes two numbers & returns them as "number + number = number", "number - number = number", "number * number = number", "number / number = number"
+1. Write program calculating & printing 20 Fibonacci numbers
+1. Write program calculating & printing factorials up to 10!
+1. Write program calculating & printing 50 odd numbers
+1. Write program calculating & printing 50 even numbers
+1. Write program calculating & printing minimal & maximal value of array
